@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DialectTranslate</string>
+    <string name="title_home">Tagalog to Pangasinense</string>
+    <string name="title_dashboard">Pangasinense to Tagalog</string>
+    <string name="title_notifications">Listahan ng Baybayin</string>
+</resources>
